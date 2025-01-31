@@ -1,0 +1,21 @@
+
+C:\Users\ASUS\Downloads>python chatbot.py
+Welcome to the Financial Chatbot!
+Ask me a question (or type 'exit' to quit): What is the total revenue?
+Enter the company (Microsoft, Tesla, Apple): Tesla
+Enter the fiscal year (2022, 2023, 2024): 2023
+The total revenue for Tesla in 2023 is $66389 million.
+Ask me a question (or type 'exit' to quit): How has net income changed over the last year?
+Enter the company (Microsoft, Tesla, Apple): Apple
+Enter the fiscal year (2022, 2023, 2024): 2023
+The net income of Apple changed by 4.6% in 2023 compared to the previous year.
+Ask me a question (or type 'exit' to quit): What is the total asset value?
+Enter the company (Microsoft, Tesla, Apple): Apple
+Enter the fiscal year (2022, 2023, 2024): 2024
+The total asset value for Apple in 2024 is $400000 million.
+Ask me a question (or type 'exit' to quit): What is the YoY change in revenue?
+Enter the company (Microsoft, Tesla, Apple): Tesla
+Enter the fiscal year (2022, 2023, 2024): 2021
+Data not found for the specified company or year.
+Ask me a question (or type 'exit' to quit): exit
+Goodbye!

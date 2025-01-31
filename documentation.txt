@@ -1,0 +1,25 @@
+Chatbot Documentation
+Overview: This Python chatbot is designed to provide financial data for Microsoft, Tesla, and Apple for the fiscal years 2022, 2023, and 2024. The chatbot responds to predefined financial queries by retrieving data from a pandas DataFrame.
+
+Predefined Queries: The chatbot can respond to the following queries:
+
+What is the total revenue?
+How has net income changed over the last year?
+What is the total asset value?
+What is the cash flow from operating activities?
+What is the YoY change in revenue?
+For each query, the user is prompted to enter the company name (Microsoft, Tesla, or Apple) and the fiscal year (2022, 2023, or 2024).
+
+Example Queries:
+
+"What is the total revenue?"
+"How has net income changed over the last year?"
+"What is the total asset value?"
+"What is the cash flow from operating activities?"
+"What is the YoY change in revenue?"
+Limitations:
+
+The chatbot is only capable of responding to the predefined queries listed above.
+The user must input valid company names (Microsoft, Tesla, Apple) and valid fiscal years (2022, 2023, 2024).
+If the user queries an invalid combination (e.g., a company-year pair with no data), the chatbot will return an error message.
+The chatbot currently only works in the command-line interface and does not support a web-based interface.
